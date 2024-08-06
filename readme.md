@@ -1,3 +1,15 @@
+## Screenshots
+
+![client](https://github.com/user-attachments/assets/f7fd77a8-1385-4950-ac3f-0dfcba76feb3)
+![compte](https://github.com/user-attachments/assets/5e59356b-4f1f-44b0-b8e2-782d2d2b31cd)
+![landing page](https://github.com/user-attachments/assets/9c02ffdc-5bde-4d81-a2fb-04176bf45cee)
+![listeDeClients](https://github.com/user-attachments/assets/58197d94-0166-4866-aa2c-b2e92a2b21a7)
+![listeDeComptes](https://github.com/user-attachments/assets/0273362c-52d0-4551-9cc7-b8bf888f1567)
+![listeDeServices](https://github.com/user-attachments/assets/f4ec153b-efdd-438e-a65f-3848af6ddf23)
+![login](https://github.com/user-attachments/assets/3aca1847-37a1-42f6-a679-d5474e2b77e8)
+![register](https://github.com/user-attachments/assets/cefb6e2d-c9c1-42be-896a-4d62a7415a78)
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
